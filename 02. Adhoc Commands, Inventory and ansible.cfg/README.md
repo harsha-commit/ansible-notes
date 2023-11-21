@@ -42,7 +42,7 @@
 	- `ansible all -m setup`
 		- Gives all the information about the servers
 
-## Inventory
+## Ansible Inventory
 
 - Ansible works against multiple managed nodes or hosts in your infrastructure at the same time, using a list or group of lists known as Inventory
 - Hosts information can be defined in
